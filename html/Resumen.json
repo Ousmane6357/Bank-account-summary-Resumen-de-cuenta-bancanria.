@@ -1,0 +1,9 @@
+{
+    "banco": "Banco de Springfield",
+    "sucursal": "Springfield, IL",
+    "titular": "OusmaneDagnogo",
+    "nro_cuenta": "234-455-666-554444",
+    "saldo": [{"moneda": "USD", "monto": 273.567}, {"moneda": "EUR", "monto": 271.455}],
+    "cbu": "354675653546",
+    "abierto": "04/06/2023"
+}

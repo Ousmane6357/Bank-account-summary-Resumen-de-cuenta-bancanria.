@@ -1,0 +1,31 @@
+body{
+
+    text-align: center;
+    background-color: brown;
+    color: wheat;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    width: 40%;
+    margin: 0 auto;
+}
+
+.saldo{
+    font-size: large;
+    font-weight: bolder;
+    font-style: italic;
+
+}
+
+.saldo p{
+    margin: 1rem;
+}
+
+.saldo img{
+    height: 35px;
+    border-radius: 50%;
+    border: 2px solid white;
+    vertical-align: middle;
+}
+
+.fila{
+    display: inline-block;
+}

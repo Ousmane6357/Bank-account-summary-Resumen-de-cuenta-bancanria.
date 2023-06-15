@@ -1,0 +1,13 @@
+{
+    "nombre": "Ousmane Dagnogo",
+    "edad": 21,
+    "esEstudiante": false,
+    "direccion": {
+        "calle": "Josep Tarradellas 90",
+        "ciudad": "Barcelona"
+    },
+    "telefono": [
+        "555-555-555-5555",
+        "555-555-555-5546"
+    ]
+}
